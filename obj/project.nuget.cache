@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lIn1SJo5eIr7xQksPTFsHUIXun+4sKfVLBio6Fu5gkoss36gfMzZnfvdvh8xLhkYyr4YChCAmiRcZ+hncosNbQ==",
+  "success": true,
+  "projectFilePath": "D:\\learning\\Git\\hello-world-demo\\Hello-World-Docker.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\HVadnere\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
